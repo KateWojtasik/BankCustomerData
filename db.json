@@ -1,30 +1,39 @@
 {"customers": [
   {
     "id": 1,
-    "email": "123abc@mapquest.com",
-    "phone": "1000",
-    "name": "Jackson Boss",
-    "cc_balance": "334.54",
-    "due_date": "8/26/2024",
-    "last_digits": "123456"
+    "email": "stone@hotmail.com",
+    "phone": "1234",
+    "name": "Emma Stone",
+    "cc_balance": "700.00",
+    "due_date": "5/28/2024",
+    "last_digits": "1507"
   },
   {
     "id": 2,
-    "email": "456abc@mapquest.com",
-    "phone": "1001",
-    "name": "Kanban king",
-    "cc_balance": "534.54",
-    "due_date": "8/17/2024",
-    "last_digits": "7877"
+    "email": "flower@hotmail.com",
+    "phone": "4321",
+    "name": "Amanda Flower",
+    "cc_balance": "450.50",
+    "due_date": "5/25/2024",
+    "last_digits": "0101"
   },
   {
     "id": 3,
-    "email": "456@mapquest.com",
-    "phone": "1002",
-    "name": "Becky Johns",
-    "cc_balance": "334.54",
-    "due_date": "9/12/2024",
-    "last_digits": "6758"
+    "email": "spartz@hotmail.com",
+    "phone": "5678",
+    "name": "Kylie Spartz",
+    "cc_balance": "350.00",
+    "due_date": "6/1/2024",
+    "last_digits": "4435"
+  },
+  {
+    "id": 4,
+    "email": "rock@hotmail.com",
+    "phone": "8765",
+    "name": "Joe Rock",
+    "cc_balance": "670.00",
+    "due_date": "6/12/2024",
+    "last_digits": "0990"
   }
 ]
 }
